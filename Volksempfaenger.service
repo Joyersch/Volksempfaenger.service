@@ -3,7 +3,7 @@ Description=Volksempfaenger
 
 [Service]
 WorkingDirectory=/home/joy/Bot/
-ExecStart=./Volksempfaenger 
+ExecStart=/home/joy/Bot/Volksempfaenger 
 Restart=always
 RestartSec=5
 
